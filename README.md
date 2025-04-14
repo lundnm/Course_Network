@@ -8,6 +8,4 @@ This program first creates a directed graph of all graduate courses. I then prom
 
 ## File Descriptions
 - network.py: This is the main code for my program.
-- manipulation.ipynb: This is the notebook that I used to process my data
-- demo.mp4: This is a demonstration of the my programs functions
-- 507_final_writeup.pdf: This is the final report on my project 
+- manipulation.ipynb: This is the notebook that I used to process my data 
