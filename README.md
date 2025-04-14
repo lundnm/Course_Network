@@ -1,2 +1,6 @@
 # Course_Network
 This is a repository for my SI 507 Final Project
+
+This program helps UMSI master’s students on the Big Data Analytics and UX tracks plan out and visualize their course schedules.
+
+This program first creates a directed graph of all graduate courses. I then prompt the user with five options. They can build and visualize a schedule based on their track and selective requirements, find the most central course of their schedule or all classes, find the shortest path between courses, find the prerequisites for each course, and view course information.
