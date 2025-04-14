@@ -1,5 +1,5 @@
 # Course_Network
-This is a repository for my SI 507 Final Project
+This is a repository for Lunden Mandigo's SI 507 Final Project
 
 This program helps UMSI master’s students on the Big Data Analytics and UX tracks plan out and visualize their course schedules.
 
